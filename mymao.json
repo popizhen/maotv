@@ -1,6 +1,7 @@
 {
   "sites": [
   
+  
     {
       "key": "csp_xpath_438",
       "name": "438(XP)",
@@ -9,7 +10,57 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xiaobyden.coding.net/p/mymao/d/mao/git/raw/master/438.json?download=false"
+      "ext": "http://192.168.0.189:1111/storage/emulated/0/Documents/%E7%8C%AB%E5%BD%B1%E8%A7%86/438.json?cmd=file"
+    },    
+    {
+      "key": "csp_xpath_54pv",
+      "name": "54pv(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://192.168.0.189:1111/storage/emulated/0/Documents/%E7%8C%AB%E5%BD%B1%E8%A7%86/54pv.json?cmd=file"
+    },
+    {
+      "key": "csp_xpath_鲸云",
+      "name": "鲸云(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://192.168.0.189:1111/storage/emulated/0/Documents/%E7%8C%AB%E5%BD%B1%E8%A7%86/%E9%B2%B8%E4%BA%91.json?cmd=file"
+    },   
+    {
+      "key": "csp_xpath_秃头",
+      "name": "秃头(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://192.168.0.189:1111/storage/emulated/0/Documents/%E7%8C%AB%E5%BD%B1%E8%A7%86/%E8%87%AA%E5%86%99%E8%A7%84%E5%88%99/%E7%A7%83%E5%A4%B4.json?cmd=file"
+    },
+    {
+      "key": "csp_xpath_农民影视",
+      "name": "农民影视(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://xiaobyden.coding.net/p/mymao/d/mao/git/raw/master/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json?download=false"
+    },              
+    {
+      "key": "csp_xpath_蓝莓",
+      "name": "蓝莓(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://192.168.0.189:1111/storage/emulated/0/Documents/%E7%8C%AB%E5%BD%B1%E8%A7%86/%E8%93%9D%E8%8E%93.json?cmd=file"
     },
     {
       "key": "csp_xpath_奇粹",
@@ -19,7 +70,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://xiaobyden.coding.net/p/mymao/d/mao/git/raw/master/%E5%A5%87%E7%B2%B9.json?download=false"
+      "ext": "http://192.168.0.189:1111/storage/emulated/0/Documents/%E7%8C%AB%E5%BD%B1%E8%A7%86/%E5%A5%87%E7%B2%B9.json?cmd=file"
     }
   ],
   "lives": [
